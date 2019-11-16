@@ -24,6 +24,7 @@ Adding defaulters(people worked on but on debts)
 Viewing all workers, admins, discounts, defaulters,etc as will be discovered in the system
 
 
-# NOTE: PLease you need to change or entirely remove the passoword as my mysql here requires a password to run, but yours might not
+# NOTE:
+PLease you need to change or entirely remove the passoword as my mysql here requires a password to run, but yours might not since am running on linux
 
                     -----enjoy iSaloon---
